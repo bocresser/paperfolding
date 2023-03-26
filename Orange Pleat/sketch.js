@@ -17,7 +17,7 @@ function draw() {
   stroke(0);
   strokeWeight(1);
   angleMode(RADIANS);
-  var folds = makeEven(int(map(mouseY, 0, width, 0, 140)));
+  var folds = makeEven(int(map(mouseY, 0, height, 0, 140)));
   var innerR = 40;
   var outerR = 140;
   var a;
