@@ -15,11 +15,11 @@ function draw() {
   
   fill(255);
   angleMode(RADIANS);
-  var sides = int(map(mouseY, 0, width, 3, 10));
+  var sides = int(map(mouseY, 0, height, 3, 12));
   var r = 70;
   var z1;
   var z2 = 0;
-  var thickness = map(mouseX, 0, height, 0, 40);
+  var thickness = map(mouseX, 0, width, 0, 40);
   var rows = 8;
   var slant = true;
   for (var i = 0; i < rows; i++) {
