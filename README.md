@@ -1,5 +1,5 @@
 # Paper Folding
-Here are my experimentations with creating these pleated geometric origami shapes from a book called 'Folding Techniques For Designers From Sheet to Form' by Paul Jackson into code.
+Here is the p5.js code for some shapes inspired by 'Folding Techniques For Designers From Sheet to Form' by Paul Jackson into code.
 
 <img width="557" alt="Accordion Pleat Photo" src="https://user-images.githubusercontent.com/48961416/227791476-54912911-1561-4110-b818-1622ebd89e2b.png">
 
