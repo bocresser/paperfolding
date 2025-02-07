@@ -1,6 +1,4 @@
 # Paper Folding
-Here is the p5.js code for some shapes inspired by 'Folding Techniques For Designers From Sheet to Form' by Paul Jackson.
-
 <img width="557" alt="Accordion Pleat Photo" src="https://user-images.githubusercontent.com/48961416/227791476-54912911-1561-4110-b818-1622ebd89e2b.png">
 
 <img width="557" alt="Grid Vs Photo" src="https://user-images.githubusercontent.com/48961416/227791477-3e0c6fc8-768f-42b9-b54c-afdb62817dc9.png">
